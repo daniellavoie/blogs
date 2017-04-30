@@ -1,2 +1,11 @@
 [
+  {
+    "title" : "Développement RAD avec Spring Boot",
+    "lang" : "fr",
+    "date" : "2016-01-05"
+    "tags" : [
+      "spring",
+      "spring-boot"
+    ]
+  }
 ]
